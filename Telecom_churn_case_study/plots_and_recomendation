@@ -1,0 +1,111 @@
+3d plots
+total_ic_mou_8      
+total_og_mou_8
+total_og_mou_7
+--------------
+3d plots
+total_rech_amt_8
+total_rech_num_8
+--------------
+mean_value_comparision
+loc_ic_mou_6
+loc_og_mou_8
+--------------
+mean_value_comparision
+monthly_3g_6
+monthly_2g_7
+--------------
+roam_og_mou_8  
+roam_ic_mou_8
+--------------
+av_rech_amt_data_8  
+last_day_rch_amt_8  
+--------------   
+mean_value_comparision   
+sachet_3g_7       
+vol_2g_mb_8
+--------------
+mean_value_comparision
+isd_ic_mou_6
+isd_og_mou_8
+--------------
+mean_value_comparision    
+loc_ic_t2f_mou_8  
+loc_og_t2f_mou_7
+--------------
+3d pots 
+arpu_8              
+arpu_2g_7           
+--------------    
+3d plots
+ic_others_6         
+spl_og_mou_7       
+    
+EDA & Recommendations:
+
+total_ic_mou_8 : total Incoming calls Minutes of usage - voice calls in 8th Month
+value less than : 		 minutes ; there are higher chances of customer churn
+
+total_og_mou_8 : total Outgoing calls Minutes of usage - voice calls in 8th Month
+value less than : 		 minutes ; there are higher chances of customer churn
+
+total_og_mou_7 : total Incoming calls Minutes of usage - voice calls in 7th Month
+value less than : 		 minutes ; there are higher chances of customer churn
+
+total_rech_amt_8 : total recharge amount in 8th Month
+value less than : 		 value ; there are higher chances of customer churn
+
+total_rech_num_8 : total recharge count in 8th Month
+value less than : 		 counts ; there are higher chances of customer churn
+
+loc_ic_mou_6 : Local incoming minutes of usage - voice calls in 6th Month
+value less than : 		 minutes ; there are higher chances of customer churn
+
+loc_og_mou_8 : Local incoming minutes of usage - voice calls in 6th Month
+value less than : 		 minutes ; there are higher chances of customer churn
+
+monthly_3g_6 : 3G data usage in 6th Month
+value less than : 		  ; there are higher chances of customer churn
+
+monthly_2g_7 : 2G data usage in 6th Month
+value less than : 		  ; there are higher chances of customer churn
+
+roam_og_mou_8 : Roaming outgoing minutes of usage in 8th Month
+value less than : 		 minutes ; there are higher chances of customer churn
+
+roam_ic_mou_8 : Roaming Incoming minutes of usage in 8th Month
+value less than : 		 minutes ; there are higher chances of customer churn
+
+av_rech_amt_data_8 : Average recharge amount in 8th Month
+value less than : 		 amount ; there are higher chances of customer churn
+
+last_day_rch_amt_8 : Last day recharge amount in 8th Month
+value less than : 		 amount ; there are higher chances of customer churn
+
+
+vol_2g_mb_8 : 2G Data volume in 8th Month
+value less than : 		 minutes ; there are higher chances of customer churn
+
+isd_ic_mou_6 : ISD incoming calls - minutes of usage in 6th Month
+value less than : 		 minutes ; there are higher chances of customer churn
+
+isd_og_mou_8 : ISD Outoming calls - minutes of usage in 8th Month
+value less than : 		 minutes ; there are higher chances of customer churn
+
+loc_ic_t2f_mou_8 : Local incoming T to F minutes of usage in 8th Month
+value less than : 		 minutes ; there are higher chances of customer churn
+
+loc_ic_t2f_mou_7 : Local incoming T to F minutes of usage in 7th Month
+value less than : 		 minutes ; there are higher chances of customer churn
+
+arpu_8 : Average revenue per user in 8th Month
+value less than : 		 amount ; there are higher chances of customer churn
+
+arpu_2g_7 : Average revenue per user in 7th Month for 2G
+value less than : 		 minutes ; there are higher chances of customer churn
+
+ic_others_6 : Incoming calls in 6th Month
+value less than : 		 minutes ; there are higher chances of customer churn
+
+spl_og_mou_7 : Special outgoing calls - minutes of usage in 7th Month
+value less than : 		 minutes ; there are higher chances of customer churn
