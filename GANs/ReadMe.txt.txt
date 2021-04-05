@@ -1,2 +1,2 @@
-demo_GANs:
+demo_GANs: https://drive.google.com/drive/folders/10Zcjb_CLeMVXm6-p5vx6Kp7oYUbkFKeG?usp=sharing
 Style-transfer-with-GAN_MRI: https://drive.google.com/drive/folders/1uMndll6NUR0QbcWmENLet4un_8xXfvzZ?usp=sharing
