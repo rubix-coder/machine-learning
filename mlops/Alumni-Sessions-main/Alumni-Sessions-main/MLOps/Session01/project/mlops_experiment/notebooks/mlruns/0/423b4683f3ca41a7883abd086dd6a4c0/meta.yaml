@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/lavi/Documents/Consulting%20Work/Upgrad/Alumni%20Sessions/MLOps/Session01/project/mlops_experiment/notebooks/mlruns/0/423b4683f3ca41a7883abd086dd6a4c0/artifacts
+end_time: 1623481318194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 423b4683f3ca41a7883abd086dd6a4c0
+run_uuid: 423b4683f3ca41a7883abd086dd6a4c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1623481318151
+status: 3
+tags: []
+user_id: jesal
