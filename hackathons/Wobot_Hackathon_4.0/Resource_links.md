@@ -1,0 +1,3 @@
+- [ ] [Competition details and dataset](https://wobotintelligence-my.sharepoint.com/personal/farheen_naaz_wobot_ai/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ffarheen%5Fnaaz%5Fwobot%5Fai%2FDocuments%2Fassignment%2FHackathon%204%2E0%2Epdf&parent=%2Fpersonal%2Ffarheen%5Fnaaz%5Fwobot%5Fai%2FDocuments%2Fassignment&originalPath=aHR0cHM6Ly93b2JvdGludGVsbGlnZW5jZS1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC9mYXJoZWVuX25hYXpfd29ib3RfYWkvRWVxcHk0dTFHTTVDcWZFMjIxM0Z2MXdCd2tPSVE4MWJzb1duel9lWUJGOE9wUT9ydGltZT04UkoyVTRkbjJVZw)
+
+- [ ] [Business problem](https://www.youtube.com/watch?v=6PoPwZ0WO9w)
